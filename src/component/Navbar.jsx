@@ -12,7 +12,7 @@ export default function Navbar() {
       <nav className="hidden lg:flex w-full h-[70px] shadow-md flex justify-evenly">
         <div className="w-[30%] h-full flex flex-start">
           <img
-            src="/public/logo.png"
+            src="/logo.png"
             alt=""
             className="w-[30%] h-[100%] object-cover ml-4"
           />
