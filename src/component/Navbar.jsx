@@ -42,7 +42,7 @@ export default function Navbar() {
       <div className="lg:hidden w-full h-[70px] shadow-md flex">
         <div className="w-[30%] h-full">
           <img
-            src="/logo.png"
+            src="logo.png"
             alt=""
             className="w-[60px] h-[65px] object-cover ml-2"
           />
